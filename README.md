@@ -3,7 +3,7 @@
 **Senior AI & Cloud Infrastructure Engineer**  
 Architecting autonomous AI agent platforms, distributed cloud backbones, and mission-critical data systems at enterprise scale.
 
-📍 Bengaluru, India · 💼 IBM Cloud · ✉️ [ggunishetty9@gmail.com](mailto:ggunishetty9@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/vaishnavi-gunishetty)
+📍 Bengaluru, India · 💼 IBM Cloud · ✉️ [ggunishetty9work@gmail.com](mailto:ggunishetty9work@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/vaishnavi-gunishetty)
 
 ---
 
